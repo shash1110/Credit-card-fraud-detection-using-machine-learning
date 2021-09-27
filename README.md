@@ -9,7 +9,7 @@ The challenge is to recognize fraudulent credit card transactions so that the cu
 
 To get a better feeling of which algorithm would perform best on our data, let’s quickly spot-check some of the most popular classification algorithms:
 
-1.Logistic Regression,
+ 1.Logistic Regression,
 
  2. Linear Discriminant Analysis,
 
