@@ -27,6 +27,7 @@ This Credit card fraud detection projcet is performed using :
 
 
 ✅Decision tree 
+    
     📌Isolation Forest Algorithm.
 
 
