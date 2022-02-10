@@ -25,9 +25,10 @@ To get a better feeling of which algorithm would perform best on our data, let�
 
 This Credit card fraud detection projcet is performed using :
 
-✅Classification trees
 
-✅Random forest classifier
+✅Decision tree 
+    📌Isolation Forest Algorithm.
+
 
 
 Fraud detection is a complex issue that requires a substantial amount of planning before throwing machine learning algorithms at it. Nonetheless, it is also an application of data science and machine learning for the good, which makes sure that the customer’s money is safe and not easily tampered with.
